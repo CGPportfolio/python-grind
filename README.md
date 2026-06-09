@@ -37,6 +37,17 @@ While loops, for loops, range(), and importing modules. Built two tree printers.
 
 ---
 
+### ✅ Chapter 4 — Functions
+Def statements, parameters, return values, scope, the call stack, and exception handling. Built three functions-based programs.
+
+| File | Description |
+|------|-------------|
+| `transactionTracker.py` | Returns account balance after a transaction, blocks overdrafts |
+| `arithmeticFunctions.py` | Adds and multiplies numbers without using + or * operators |
+| `tickTockPrint.py` | Counts down seconds printing Tick and Tock with pauses |
+
+---
+
 ## 🔧 How to Run
 Make sure you have Python 3 installed, then run any file with:
 ```

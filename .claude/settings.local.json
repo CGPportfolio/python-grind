@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/rectPrint.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/perimeterAreaCalculator.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/safeTemp.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/fizzBuzzNumber.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/treePrint.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/xmasTreePrint.py\")"
+    ]
+  }
+}

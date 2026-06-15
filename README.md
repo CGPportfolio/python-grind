@@ -48,6 +48,24 @@ Def statements, parameters, return values, scope, the call stack, and exception 
 
 ---
 
+### ✅ Chapter 5 — Debugging
+Raising exceptions, assertions, logging, and using the debugger. Fixed buggy programs and wrote intentionally broken code to understand error messages.
+
+| File | Description |
+|------|-------------|
+| `gradeAverage.py` | Fixed grade average calculator with swapped args and zero division bug |
+| `leapYear.py` | Fixed leap year calculator with incorrect return logic |
+| `nameError.py` | Produces NameError: name 'spam' is not defined |
+| `badInt.py` | Produces ValueError: invalid literal for int() |
+| `badEquals.py` | Produces SyntaxError: maybe you meant '==' instead of '=' |
+| `badString.py` | Produces SyntaxError: unterminated string literal |
+| `badBool.py` | Produces NameError: name 'true' is not defined |
+| `missingIfBlock.py` | Produces IndentationError: expected an indented block |
+| `stringPlusInt.py` | Produces TypeError: can only concatenate str to str |
+| `intPlusString.py` | Produces TypeError: unsupported operand type for +: int and str |
+
+---
+
 ## 🔧 How to Run
 Make sure you have Python 3 installed, then run any file with:
 ```

@@ -8,7 +8,9 @@
       "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/treePrint.py\")",
       "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/xmasTreePrint.py\")",
       "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/arithmeticFunctions.py\")",
-      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/transactionTracker.py\")"
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/transactionTracker.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/pangramDetector.py\")",
+      "Bash(python3 \"/Users/charlesgoncharov-pitts/Python in claude/coordinateDirections.py\")"
     ]
   }
 }

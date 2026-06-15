@@ -66,6 +66,16 @@ Raising exceptions, assertions, logging, and using the debugger. Fixed buggy pro
 
 ---
 
+### ✅ Chapter 6 — Lists
+List indexing, methods, augmented assignment operators, tuples, references, and sequence data types. Built a pangram detector and a coordinate tracker.
+
+| File | Description |
+|------|-------------|
+| `pangramDetector.py` | Checks if a sentence uses all 26 letters of the alphabet |
+| `coordinateDirections.py` | Tracks N/S/E/W moves and returns final coordinates |
+
+---
+
 ## 🔧 How to Run
 Make sure you have Python 3 installed, then run any file with:
 ```
